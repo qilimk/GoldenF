@@ -48,7 +48,7 @@ Ensure your project has:
 General command:
 
 ```bash
-python your_script.py \
+python demo.py \
     --go_embedding_file path/to/go_embeddings.npz \
     --pager_embedding_file path/to/pager_embeddings.npz \
     --gs_file path/to/gs_ids.txt \
